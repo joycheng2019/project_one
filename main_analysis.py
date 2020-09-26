@@ -12,3 +12,6 @@ print("added additional analysis to part two - visualizations.")
 
 #further cleaning
 print("added further transformation to the data.")
+
+#JB'S analysis
+print("JB added some awesome new analysis.")
