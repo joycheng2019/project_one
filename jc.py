@@ -7,3 +7,6 @@ print("add a new line from master commit")
 #add a new line from branch
 print("this is a new line")
 
+#add new featuers
+print("added new features.")
+
